@@ -1,7 +1,10 @@
-#include<stdio.h>
+// main.c
 
+#include "banners/gamebanner.h"
 
-int main(){
-    printf("=======================EROR PIXEL GAME======================\n");
+int main() {
+    // Kutubxonani ishlatish
+    printSalom();
+
     return 0;
 }
